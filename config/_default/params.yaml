@@ -45,7 +45,8 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license} <br> ICP 证: <a href="https://beian.miit.gov.cn/" target="_blank">晋ICP备2023017253号-1</a>'
+    # notice: '<a href="https://beian.miit.gov.cn/" target="_blank">晋ICP备2023017253号-1</a>'
     license:
       enable: true
       allow_derivatives: false

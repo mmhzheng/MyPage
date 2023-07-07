@@ -1,0 +1,25 @@
+nohup: ignoring input
+Start building sites … 
+hugo v0.115.1-857374e69358f788bd31ddc55255c5c8e3dcfd80+extended linux/amd64 BuildDate=2023-07-03T17:28:25Z VendorInfo=snap:0.115.1
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 57  
+  Paginator pages  |  0  
+  Non-page files   | 16  
+  Static files     |  9  
+  Processed images | 24  
+  Aliases          | 15  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 763 ms
+Watching for changes in /root/MyPage/{assets,content,data,static}
+Watching for changes in /tmp/hugo_cache_root/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5@v5.7.1-0.20230420205746-951c7b6f709d/{archetypes,assets,data,i18n,layouts,static}
+Watching for config changes in /root/MyPage/config/_default
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
